@@ -16,11 +16,10 @@ Cybersecurity Analyst & Cloud Security Enthusiast focused on SOC Operations, Inc
 * **[Python Phishing Email Analyzer](https://github.com/Zeebams)**
   * *Description:* Developed an automated script to parse raw email headers, detect structural anomalies, and analyze potential indicators of compromise locally.
   * *Tools:* Python, Automation
-
-* **[SIEM & Log Ingestion Lab](https://github.com/Zeebams)**
-  * *Description:* Configured log forwarding pipelines using Filebeat into Wazuh SIEM, filtered network traffic, and monitored system events for security hardening.
-  * *Tools:* Wazuh SIEM, Filebeat, Linux
-
+    
+* **[SOC Splunk Login Investigation](https://github.com/Zeebams/splunk-authentication-investigation)**
+  * *Description:* Conducted a SOC incident investigation into 41 failed authentication attempts from suspicious IP `87.194.216.51`, analyzed targeted administrative accounts using SPL, correlated logs, and documented an IR assessment.
+  * *Tools:* Splunk, SPL, Log Analysis, Incident Triage
 ---
 
 ### 🛠️ Skills & Technologies
